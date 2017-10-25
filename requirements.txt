@@ -22,3 +22,4 @@ Paste
 PasteDeploy
 monotonic
 daiquiri
+lz4>=0.9.0
